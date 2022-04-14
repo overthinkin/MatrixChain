@@ -39,5 +39,10 @@ for k in range(j, j+i):
 
 ### 실행 결과
 
+![](https://user-images.githubusercontent.com/80513292/163364077-d1f97e0d-c95e-47da-9617-20ea6c7ec944.png)
 
+1행: 입력할 행렬의 수 = 4
 
+2행~5행: 행렬 내용
+
+6행: 연속행렬곱셈의 결과값
